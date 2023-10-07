@@ -1,0 +1,30 @@
+.planet-image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .planet-image-container h2 {
+    margin-top: 10px;
+    font-size: 24px;
+  }
+  
+  .planet-image-container img {
+    max-width: 300px;
+    margin: 10px 0;
+  }
+  
+  .planet-image-container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .planet-image-container button:hover {
+    background-color: #0056b3;
+  }
+  
