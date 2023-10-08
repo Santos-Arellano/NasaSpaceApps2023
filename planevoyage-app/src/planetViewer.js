@@ -1,7 +1,7 @@
 import React from 'react';
 import './planetViewer.css';
 
-const PlanetImage = ({ planetName, imagePath, onNextClick }) => {
+const PlanetViewer = ({ planetName, imagePath, onNextClick }) => {
   return (
     <div className="planet-image-container">
       <h2>{planetName}</h2>
@@ -11,4 +11,4 @@ const PlanetImage = ({ planetName, imagePath, onNextClick }) => {
   );
 };
 
-export default PlanetImage;
+export default PlanetViewer;
