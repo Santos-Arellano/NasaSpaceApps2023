@@ -5,13 +5,13 @@ export default function Home() {
     <main className="home">
       <div className="hero">
         <div className="hero-text">
-          <p className="big-text">So, you want to travel to </p>
-          <h1>Space</h1>
+          <p className="big-text">So, you go to </p>
+          <h1>Space?</h1>
           <p className="text">
-            Let's face it; if you want to go to space, you might as well
-            genuinely go to outer space and not hover kind of on the edge of it.
-            Well sit back, and relax because we'll give you a truly out of this
-            world experience!
+           We can take you there! We are a company specialized in 
+          space travel. Whether you want to go to the Moon or to Saturn, 
+         “Plan it- planet” is here for all of your intergalactic needs. 
+          So sit back, relax and enjoy an out of this world experience. 
           </p>
         </div>
 
